@@ -1,2 +1,3 @@
 #!/bin/bash
-is-I
+ls -l
+ls -A
