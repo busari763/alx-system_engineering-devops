@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp/iamafile 
+echo 'ls . .. /boot -al' >> 11-lists
