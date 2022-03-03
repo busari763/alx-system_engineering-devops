@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls_ls_ 
+echo 'l -s /bin/ls _ls_' >> 13-symnolic_link 
